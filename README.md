@@ -25,30 +25,12 @@ This app allows you to **add, edit, delete, search, filter, and sort** student d
 - **Styling**: CSS & MUI `sx` styling
 - **Utilities**: Custom helper functions for normalization and fuzzy matching
 
- student-management-app/
-│
-├── src/
-│ ├── components/
-│ │ ├── Form.jsx
-│ │ ├── StudentTable.jsx
-│ │ ├── SearchAndSort.jsx
-│ │ ├── TestRunner.jsx
-│ │
-│ ├── utils/
-│ │ ├── helpers.js
-│ │
-│ ├── App.js
-│ ├── App.css
-│ └── index.js
-│
-├── package.json
-└── README.md
 
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/student-management-app.git
+   https://github.com/Pratham-Gudadhe/Student-Manager.git
    cd student-management-app
 
 2. **Install dependencies**
