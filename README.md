@@ -1,4 +1,4 @@
-# Student Data Manager
+# Student Manager
 
 A React-based Student Management System built with **Material-UI (MUI)** for managing student records efficiently.  
 This app allows you to **add, edit, delete, search, filter, and sort** student data with ease.
@@ -31,7 +31,7 @@ This app allows you to **add, edit, delete, search, filter, and sort** student d
 1. **Clone the repository**
    ```bash
    https://github.com/Pratham-Gudadhe/Student-Manager.git
-   cd student-management-app
+   cd Student-Manager
 
 2. **Install dependencies**
   ```
