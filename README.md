@@ -25,7 +25,7 @@ This app allows you to **add, edit, delete, search, filter, and sort** student d
 - **Styling**: CSS & MUI `sx` styling
 - **Utilities**: Custom helper functions for normalization and fuzzy matching
 
-- student-management-app/
+ student-management-app/
 │
 ├── src/
 │ ├── components/
@@ -59,4 +59,3 @@ This app allows you to **add, edit, delete, search, filter, and sort** student d
   ```
   npm start
   ```
-   npm start
